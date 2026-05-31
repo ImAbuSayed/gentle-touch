@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/gentle-touch/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Gentle Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gentle-touch/) |
+| **Get License** | [Get a Licensing Quote for Gentle Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gentle-touch/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel the heat from across the room
+> Caught in the shadows, pulling me to you
+> There is a fire burning in your eyes tonight
+> We are just a heartbeat away from crossing the line
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
