@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/gentle-touch/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Gentle Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gentle-touch/) |
+| **Get License** | [Official Music Licensing for Gentle Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/gentle-touch/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `206d03bce3525dec71431e446bb0dd482e2de48db669afb10c61c9e43d123bb8` |
 | **Timestamp** | May 31, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
